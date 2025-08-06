@@ -1,1 +1,22 @@
-{}
+{
+  "name": "rendexfi-solana-dapp",
+  "version": "1.0.0",
+  "description": "Solana Dapp mit React und Wallet Adapter",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "@solana/wallet-adapter-react": "latest",
+    "@solana/wallet-adapter-wallets": "latest",
+    "@solana/wallet-adapter-react-ui": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.4.5"
+  }
+}
