@@ -1,5 +1,5 @@
 {
-  "name": "rendexfi-solana-dapp",
+  "name": "RebdexFi",
   "version": "1.0.0",
   "description": "Solana Dapp mit React und Wallet Adapter",
   "main": "src/App.tsx",
